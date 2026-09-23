@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=003153&height=200&section=header&text=Nicol%C3%A1s%20Antonelli&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-### Naval Architecture Student | Computational Fluid Dynamics | Propulsion Engineering
+### Marine Engineer & Researcher | UTN FRMDP | PhD Candidate
 
-*Passionate about ship hydrodynamics, propeller design, and interactive engineering education.*
+*Ship hydrodynamics, propeller design, and interactive engineering education.*
 
 </div>
 
@@ -12,9 +12,10 @@
 
 ## About Me
 
-- 🎓 Naval Architecture student at **UTN FRMDP** (Universidad Tecnológica Nacional, Argentina)
-- ⚓ Specializing in **ship resistance & propulsion**, **CFD simulations**, and **marine propeller design**
-- 🧮 Building **interactive tools** for engineering education using Python and Streamlit
+- 🔬 **Researcher** at **UTN FRMDP** (Universidad Tecnológica Nacional, Argentina)
+- 🎓 **PhD Candidate** — ship hydrodynamics & marine propulsion
+- ⚓ **Marine Engineer** (Ingeniero Naval) specializing in resistance, propulsion, and propeller design
+- 🧮 Building **interactive educational tools** using Python and Streamlit for naval architecture courses
 - 🌊 Research interests: overset/chimera CFD, Lagrangian mechanics, hydrofoil dynamics
 
 ---
